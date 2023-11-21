@@ -12,7 +12,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.18.20
 	github.com/aws/aws-sdk-go-v2/service/kms v1.20.9
 	github.com/coreos/go-oidc/v3 v3.5.0
-	github.com/go-jose/go-jose/v3 v3.0.0
+	github.com/go-jose/go-jose/v3 v3.0.1
 	github.com/go-rod/rod v0.112.8
 	github.com/go-test/deep v1.1.0
 	github.com/google/go-cmp v0.5.9
